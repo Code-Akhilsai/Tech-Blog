@@ -22,4 +22,4 @@ A simple and responsive landing page for a tech blog, built using **HTML, CSS, a
 ## 📂 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Code-Akhilsai/Tech-Blog.git
