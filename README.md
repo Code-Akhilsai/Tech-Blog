@@ -9,8 +9,10 @@ A simple and responsive landing page for a tech blog, built using **HTML, CSS, a
 - Clean and minimal UI  
 
 ## 📷 Preview  
-![Tech Blog Preview](![Screenshot 2025-03-06 213950](https://github.com/user-attachments/assets/a97a3fd1-e167-46df-b207-70edd80d2f9f)
-)   
+![Screenshot 2025-03-06 213950](https://github.com/user-attachments/assets/a97a3fd1-e167-46df-b207-70edd80d2f9f)
+![Screenshot 2025-03-06 214018](https://github.com/user-attachments/assets/556140bc-c341-41a1-b607-6f87762ce6e1)
+
+
 
 ## 🛠️ Technologies Used  
 - HTML5  
